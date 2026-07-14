@@ -23,8 +23,6 @@ jupyter notebook  # then open the main .ipynb
 ## Caveat
 The dataset (~270 MB) is committed to the repo — clone with `--depth 1` if you only want the notebook. A future revision should move the CSV to Git LFS or Kaggle.
 
-## Screenshots
-_Add the confusion matrix / ROC plot here._
 
 ## Author
 Vijay Nagargoje — [LinkedIn](https://www.linkedin.com/in/vijay-nagargoje) · [GitHub](https://github.com/AI-Vijay)
